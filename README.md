@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Repo Views](https://komarev.com/ghpvc/?username=devilbytes-db-runtime&label=Repo%20Views&color=red&style=for-the-badge)
-[![Tebex](https://img.shields.io/badge/Available%20on-Tebex-success?style=for-the-badge&logo=shopping-cart)](https://devilbytes.tebex.io)
+[![Tebex](https://img.shields.io/badge/Available%20on-Tebex-success?style=for-the-badge&logo=shopping-cart)](https://devil-bytes.tebex.io)
 [![Discord](https://img.shields.io/badge/Support-Discord-7289da?style=for-the-badge&logo=discord)](https://discord.gg/devilbytes)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -117,7 +117,7 @@
 
 ### 🛒 **Available on Tebex - Completely FREE!**
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-FREE%20ON%20TEBEX-success?style=for-the-badge&logo=download)](https://devil-bytes.tebex.io/package/devil-anti-trigger))
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-FREE%20ON%20TEBEX-success?style=for-the-badge&logo=download)](https://devil-bytes.tebex.io/package/devil-anti-trigger)
 
 **No Cost • No Hidden Fees • Full Features**
 
@@ -138,7 +138,7 @@
 ## 🔧 Quick Start
 
 ### **1. Download**
-Get it FREE from [Tebex Store](https://devil-bytes.tebex.io/package/devil-anti-trigger))
+Get it FREE from [Tebex Store](https://devil-bytes.tebex.io/package/devil-anti-trigger)
 
 ### **2. Install**
 ```bash
@@ -200,7 +200,7 @@ TriggerEvent("db:runtime:sync", "Cheater detected")
 
 <div align="center">
 
-[![Tebex Store](https://img.shields.io/badge/Tebex-Store-success?style=for-the-badge&logo=shopping-cart)](https://devilbytes.tebex.io)
+[![Tebex Store](https://img.shields.io/badge/Tebex-Store-success?style=for-the-badge&logo=shopping-cart)](https://devil-bytes.tebex.io)
 [![Discord Server](https://img.shields.io/badge/Discord-Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/devilbytes)
 [![Website](https://img.shields.io/badge/Website-DevilBytes-red?style=for-the-badge&logo=google-chrome)](https://www.devilbytes.com)
 
