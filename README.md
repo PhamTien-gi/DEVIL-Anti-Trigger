@@ -117,7 +117,7 @@
 
 ### 🛒 **Available on Tebex - Completely FREE!**
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-FREE%20ON%20TEBEX-success?style=for-the-badge&logo=download)](https://devilbytes.tebex.io)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD-FREE%20ON%20TEBEX-success?style=for-the-badge&logo=download)](https://devil-bytes.tebex.io/package/devil-anti-trigger))
 
 **No Cost • No Hidden Fees • Full Features**
 
@@ -138,7 +138,7 @@
 ## 🔧 Quick Start
 
 ### **1. Download**
-Get it FREE from [Tebex Store](https://devilbytes.tebex.io)
+Get it FREE from [Tebex Store](https://devil-bytes.tebex.io/package/devil-anti-trigger))
 
 ### **2. Install**
 ```bash
@@ -237,7 +237,7 @@ TriggerEvent("db:runtime:sync", "Cheater detected")
 
 ### **Ready to protect your server?**
 
-[![Claim FREE](https://img.shields.io/badge/CLAIM%20FREE-TEBEX%20STORE-success?style=for-the-badge&logo=download&logoColor=white)](https://devilbytes.tebex.io)
+[![Claim FREE](https://img.shields.io/badge/CLAIM%20FREE-TEBEX%20STORE-success?style=for-the-badge&logo=download&logoColor=white)](https://devil-bytes.tebex.io/package/devil-anti-trigger)
 
 **Download • Install • Protect**
 
